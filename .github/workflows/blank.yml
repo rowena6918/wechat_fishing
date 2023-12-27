@@ -1,4 +1,4 @@
-name: time-push
+name: wechat_fishing
 on:
   workflow_dispatch:
   schedule: 
